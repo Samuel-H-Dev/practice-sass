@@ -1,0 +1,11 @@
+.box-container{
+  background-color: blue;
+
+  .box-child{
+    background-color: red;
+  }
+  .box-grandchild{
+    background-color: green;
+  }
+
+}
